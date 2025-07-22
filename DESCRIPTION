@@ -56,7 +56,9 @@ Imports:
     gamlss,
     gamlss.dist,
     mice,
-    childsds
+    childsds,
+    methods, Rcpp (>= 1.0.12), RcppArmadillo
+LinkingTo: Formula, Rcpp, RcppArmadillo
 Suggests:
     testthat
 RoxygenNote: 7.3.2
