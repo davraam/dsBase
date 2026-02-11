@@ -6,6 +6,7 @@
 <url><loc>/reference/BooleDS.html</loc></url>
 <url><loc>/reference/absDS.html</loc></url>
 <url><loc>/reference/asCharacterDS.html</loc></url>
+<url><loc>/reference/asDataFrameDS.html</loc></url>
 <url><loc>/reference/asDataMatrixDS.html</loc></url>
 <url><loc>/reference/asFactorDS1.html</loc></url>
 <url><loc>/reference/asFactorDS2.html</loc></url>
@@ -41,6 +42,7 @@
 <url><loc>/reference/densityGridDS.html</loc></url>
 <url><loc>/reference/dimDS.html</loc></url>
 <url><loc>/reference/dmtC2SDS.html</loc></url>
+<url><loc>/reference/dsBase-package.html</loc></url>
 <url><loc>/reference/elsplineDS.html</loc></url>
 <url><loc>/reference/extract.html</loc></url>
 <url><loc>/reference/extractQuantilesDS1.html</loc></url>
@@ -93,6 +95,7 @@
 <url><loc>/reference/matrixInvertDS.html</loc></url>
 <url><loc>/reference/matrixMultDS.html</loc></url>
 <url><loc>/reference/matrixTransposeDS.html</loc></url>
+<url><loc>/reference/mdPatternDS.html</loc></url>
 <url><loc>/reference/meanDS.html</loc></url>
 <url><loc>/reference/meanSdGpDS.html</loc></url>
 <url><loc>/reference/mergeDS.html</loc></url>
@@ -134,7 +137,6 @@
 <url><loc>/reference/subsetByClassDS.html</loc></url>
 <url><loc>/reference/subsetByClassHelper1.html</loc></url>
 <url><loc>/reference/subsetByClassHelper2.html</loc></url>
-<url><loc>/reference/subsetByClassHelper3.html</loc></url>
 <url><loc>/reference/subsetDS.html</loc></url>
 <url><loc>/reference/table1DDS.html</loc></url>
 <url><loc>/reference/table2DDS.html</loc></url>
